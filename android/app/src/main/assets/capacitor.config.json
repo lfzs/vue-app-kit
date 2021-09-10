@@ -1,0 +1,16 @@
+{
+  "appId": "com.example.app",
+  "appName": "vue-app-boilerplate",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "server": {
+    "url": "http://127.0.0.1:8080"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
